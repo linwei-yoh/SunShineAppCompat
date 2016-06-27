@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/menu_Reflash"
-        android:title="Reflash"/>
+        android:id="@+id/menu_Reflesh"
+        android:title="Reflesh"/>
     <item
         android:id="@+id/menu_setting"
         android:title="Settings"/>
